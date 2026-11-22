@@ -1,0 +1,600 @@
+{
+ "updatedAt": "2026-11-22T11:15:26.000Z",
+ "note": "Closed bars only, oldest first, t = bar open (unix s). A failed file keeps its last good content and its own older updatedAt.",
+ "files": [
+  {
+   "file": "KRAKEN_BTCUSD_1h.json",
+   "symbol": "KRAKEN:BTCUSD",
+   "interval": "1h",
+   "bars": 772,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "KRAKEN_BTCUSD_4h.json",
+   "symbol": "KRAKEN:BTCUSD",
+   "interval": "4h",
+   "bars": 733,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "KRAKEN_BTCUSD_1D.json",
+   "symbol": "KRAKEN:BTCUSD",
+   "interval": "1D",
+   "bars": 722,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ETHUSDT_4h.json",
+   "symbol": "BINANCE:ETHUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ETHUSDT_1h.json",
+   "symbol": "BINANCE:ETHUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ETHUSDT_1D.json",
+   "symbol": "BINANCE:ETHUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_BNBUSDT_4h.json",
+   "symbol": "BINANCE:BNBUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_BNBUSDT_1h.json",
+   "symbol": "BINANCE:BNBUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_BNBUSDT_1D.json",
+   "symbol": "BINANCE:BNBUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_XRPUSDT_4h.json",
+   "symbol": "BINANCE:XRPUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_XRPUSDT_1h.json",
+   "symbol": "BINANCE:XRPUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_XRPUSDT_1D.json",
+   "symbol": "BINANCE:XRPUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_SOLUSDT_4h.json",
+   "symbol": "BINANCE:SOLUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_SOLUSDT_1h.json",
+   "symbol": "BINANCE:SOLUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_SOLUSDT_1D.json",
+   "symbol": "BINANCE:SOLUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_TRXUSDT_4h.json",
+   "symbol": "BINANCE:TRXUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_TRXUSDT_1h.json",
+   "symbol": "BINANCE:TRXUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_TRXUSDT_1D.json",
+   "symbol": "BINANCE:TRXUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ZECUSDT_4h.json",
+   "symbol": "BINANCE:ZECUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ZECUSDT_1h.json",
+   "symbol": "BINANCE:ZECUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ZECUSDT_1D.json",
+   "symbol": "BINANCE:ZECUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_DOGEUSDT_4h.json",
+   "symbol": "BINANCE:DOGEUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_DOGEUSDT_1h.json",
+   "symbol": "BINANCE:DOGEUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_DOGEUSDT_1D.json",
+   "symbol": "BINANCE:DOGEUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_HYPEUSDT_4h.json",
+   "symbol": "BINANCE:HYPEUSDT",
+   "interval": "4h",
+   "bars": 354,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_HYPEUSDT_1h.json",
+   "symbol": "BINANCE:HYPEUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_HYPEUSDT_1D.json",
+   "symbol": "BINANCE:HYPEUSDT",
+   "interval": "1D",
+   "bars": 59,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_LINKUSDT_4h.json",
+   "symbol": "BINANCE:LINKUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_LINKUSDT_1h.json",
+   "symbol": "BINANCE:LINKUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_LINKUSDT_1D.json",
+   "symbol": "BINANCE:LINKUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ADAUSDT_4h.json",
+   "symbol": "BINANCE:ADAUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ADAUSDT_1h.json",
+   "symbol": "BINANCE:ADAUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ADAUSDT_1D.json",
+   "symbol": "BINANCE:ADAUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_XLMUSDT_4h.json",
+   "symbol": "BINANCE:XLMUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_XLMUSDT_1h.json",
+   "symbol": "BINANCE:XLMUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_XLMUSDT_1D.json",
+   "symbol": "BINANCE:XLMUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_NEARUSDT_4h.json",
+   "symbol": "BINANCE:NEARUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_NEARUSDT_1h.json",
+   "symbol": "BINANCE:NEARUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_NEARUSDT_1D.json",
+   "symbol": "BINANCE:NEARUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_BCHUSDT_4h.json",
+   "symbol": "BINANCE:BCHUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_BCHUSDT_1h.json",
+   "symbol": "BINANCE:BCHUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_BCHUSDT_1D.json",
+   "symbol": "BINANCE:BCHUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_LTCUSDT_4h.json",
+   "symbol": "BINANCE:LTCUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_LTCUSDT_1h.json",
+   "symbol": "BINANCE:LTCUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_LTCUSDT_1D.json",
+   "symbol": "BINANCE:LTCUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_UNIUSDT_4h.json",
+   "symbol": "BINANCE:UNIUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_UNIUSDT_1h.json",
+   "symbol": "BINANCE:UNIUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_UNIUSDT_1D.json",
+   "symbol": "BINANCE:UNIUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_AVAXUSDT_4h.json",
+   "symbol": "BINANCE:AVAXUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_AVAXUSDT_1h.json",
+   "symbol": "BINANCE:AVAXUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_AVAXUSDT_1D.json",
+   "symbol": "BINANCE:AVAXUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_SUIUSDT_4h.json",
+   "symbol": "BINANCE:SUIUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_SUIUSDT_1h.json",
+   "symbol": "BINANCE:SUIUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_SUIUSDT_1D.json",
+   "symbol": "BINANCE:SUIUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_HBARUSDT_4h.json",
+   "symbol": "BINANCE:HBARUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_HBARUSDT_1h.json",
+   "symbol": "BINANCE:HBARUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_HBARUSDT_1D.json",
+   "symbol": "BINANCE:HBARUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_SHIBUSDT_4h.json",
+   "symbol": "BINANCE:SHIBUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_SHIBUSDT_1h.json",
+   "symbol": "BINANCE:SHIBUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_SHIBUSDT_1D.json",
+   "symbol": "BINANCE:SHIBUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ENAUSDT_4h.json",
+   "symbol": "BINANCE:ENAUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ENAUSDT_1h.json",
+   "symbol": "BINANCE:ENAUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_ENAUSDT_1D.json",
+   "symbol": "BINANCE:ENAUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_POLUSDT_4h.json",
+   "symbol": "BINANCE:POLUSDT",
+   "interval": "4h",
+   "bars": 500,
+   "lastBarT": 1795320000,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_POLUSDT_1h.json",
+   "symbol": "BINANCE:POLUSDT",
+   "interval": "1h",
+   "bars": 300,
+   "lastBarT": 1795341600,
+   "ok": true,
+   "error": null
+  },
+  {
+   "file": "BINANCE_POLUSDT_1D.json",
+   "symbol": "BINANCE:POLUSDT",
+   "interval": "1D",
+   "bars": 400,
+   "lastBarT": 1795219200,
+   "ok": true,
+   "error": null
+  }
+ ]
+}

@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-25T13:03:07.000Z",
+ "updatedAt": "2026-11-25T14:03:04.000Z",
  "note": "Closed bars only, oldest first, t = bar open (unix s). A failed file keeps its last good content and its own older updatedAt.",
  "files": [
   {
    "file": "KRAKEN_BTCUSD_1h.json",
    "symbol": "KRAKEN:BTCUSD",
    "interval": "1h",
-   "bars": 846,
-   "lastBarT": 1795608000,
+   "bars": 847,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -43,7 +43,7 @@
    "symbol": "BINANCE:ETHUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -70,7 +70,7 @@
    "symbol": "BINANCE:BNBUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -97,7 +97,7 @@
    "symbol": "BINANCE:XRPUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -124,7 +124,7 @@
    "symbol": "BINANCE:SOLUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -151,7 +151,7 @@
    "symbol": "BINANCE:TRXUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -178,7 +178,7 @@
    "symbol": "BINANCE:ZECUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -205,7 +205,7 @@
    "symbol": "BINANCE:DOGEUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -232,7 +232,7 @@
    "symbol": "BINANCE:HYPEUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -259,7 +259,7 @@
    "symbol": "BINANCE:LINKUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -286,7 +286,7 @@
    "symbol": "BINANCE:ADAUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -313,7 +313,7 @@
    "symbol": "BINANCE:XLMUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -340,7 +340,7 @@
    "symbol": "BINANCE:NEARUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -367,7 +367,7 @@
    "symbol": "BINANCE:BCHUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -394,7 +394,7 @@
    "symbol": "BINANCE:LTCUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -421,7 +421,7 @@
    "symbol": "BINANCE:UNIUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -448,7 +448,7 @@
    "symbol": "BINANCE:AVAXUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -475,7 +475,7 @@
    "symbol": "BINANCE:SUIUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -502,7 +502,7 @@
    "symbol": "BINANCE:HBARUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -529,7 +529,7 @@
    "symbol": "BINANCE:SHIBUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -556,7 +556,7 @@
    "symbol": "BINANCE:ENAUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
@@ -583,7 +583,7 @@
    "symbol": "BINANCE:POLUSDT",
    "interval": "1h",
    "bars": 300,
-   "lastBarT": 1795608000,
+   "lastBarT": 1795611600,
    "ok": true,
    "error": null
   },
